@@ -34,8 +34,6 @@
 
 ### 🚀 Featured Projects
 
-I love building tools that bridge the gap between complex logic and user-friendly interfaces.
-
 [![Akagi](https://github-readme-stats.vercel.app/api/pin/?username=shinkuan&repo=Akagi&theme=tokyonight)](https://github.com/shinkuan/Akagi)
 
 [![Waifuland](https://github-readme-stats.vercel.app/api/pin/?username=shinkuan&repo=Waifuland&theme=tokyonight)](https://github.com/shinkuan/Waifuland)
