@@ -42,6 +42,10 @@ I love building tools that bridge the gap between complex logic and user-friendl
 
 ---
 
+![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shinkuan&theme=radical) ![Commits per day](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shinkuan&theme=radical&utcOffset=8)
+
+---
+
 ### 📫 Connect with me
 
 - **Email**: [shinkuan318@gmail.com](mailto:shinkuan318@gmail.com)
