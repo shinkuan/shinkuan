@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=shinkuan&label=Profile%20Views&color=7289DA&style=flat)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shinkuan&show_icons=true&theme=tokyonight" alt="shinkuan's GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=shinkuan&show_icons=true&theme=tokyonight" alt="shinkuan's GitHub stats" />
 </p>
 
 ---
@@ -34,9 +34,9 @@
 
 ### 🚀 Featured Projects
 
-[![Akagi](https://github-readme-stats.vercel.app/api/pin/?username=shinkuan&repo=Akagi&theme=tokyonight)](https://github.com/shinkuan/Akagi)
+[![Akagi](https://github-readme-stats-fast.vercel.app/api/pin/?username=shinkuan&repo=Akagi&theme=tokyonight)](https://github.com/shinkuan/Akagi)
 
-[![Waifuland](https://github-readme-stats.vercel.app/api/pin/?username=shinkuan&repo=Waifuland&theme=tokyonight)](https://github.com/shinkuan/Waifuland)
+[![Waifuland](https://github-readme-stats-fast.vercel.app/api/pin/?username=shinkuan&repo=Waifuland&theme=tokyonight)](https://github.com/shinkuan/Waifuland)
 
 ---
 
